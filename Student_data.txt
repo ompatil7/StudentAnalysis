@@ -1,0 +1,20 @@
+1.Morya Harsh
+Class: SE Divsion: A Roll No. : 1
+FDS: 25 CG: 66 OOP: 35 DELD: 10 DM: 15 Percentage: 30
+
+
+2.Sharma Ram
+Class: SE Divsion: A Roll No. : 2
+FDS: 95 CG: 78 OOP: 88 DELD: 85 DM: 77 Percentage: 84
+
+
+3.Sing Sarvesh
+Class: SE Divsion: A Roll No. : 3
+FDS: 55 CG: 68 OOP: 30 DELD: 79 DM: 77 Percentage: 61
+
+
+4.Yadav Arjun
+Class: SE Divsion: A Roll No. : 4
+FDS: 70 CG: 65 OOP: 78 DELD: 80 DM: 70 Percentage: 72
+
+
